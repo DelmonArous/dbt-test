@@ -1,0 +1,13 @@
+# Python modules for installation
+google-api-core>=2.8.2
+google-auth>=2.9.0
+pyyaml
+oracledb==1.4.2
+dbt-oracle==1.4.2
+numpy
+matplotlib
+pandas
+google-cloud-secret-manager>=2.16.4
+shandy-sqlfmt[jinjafmt]
+sqlfluff
+sqlfluff-templater-dbt
